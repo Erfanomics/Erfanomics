@@ -1,5 +1,5 @@
-# About Me:
-> 🧬  Bioinformatics MSc · Python & ML on biological data  <br>> Building an antimicrobial-peptide database and automating research workflows with GenAI.<br><br><details><br><summary>What I’m hacking on 👀</summary><br><br>- 📚 Curating AMP sequences and metadata for a public database  <br>- 🧬 Integrating gene-expression profiles with drug-molecule descriptors for predictive modelling  <br>- ⚙️ Nightly scripts that auto-download new papers & organise reading lists  <br></details><br>
+# 💫 About Me:
+> 🧬  Bioinformatics MSc · Python & ML on biological data  <br>> Building an antimicrobial-peptide database and automating research workflows with GenAI.<br><details><br><summary>What I’m hacking on 👀</summary><br>- 📚 Curating AMP sequences and metadata for a public database  <br>- 🧬 Integrating gene-expression profiles with drug-molecule descriptors for predictive modelling  <br>- ⚙️ Nightly scripts that auto-download new papers & organise reading lists  <br></details><br>
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Erfanomics&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Erfanomics&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfanomics&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Erfanomics&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Erfanomics&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Erfanomics&icon=0&color=0)](https://visitcount.itsvg.in)
