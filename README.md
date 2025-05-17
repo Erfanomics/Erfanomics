@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 > 🧬  Bioinformatics MSc · Python & ML on biological data  <br>> Building an antimicrobial-peptide database and automating research workflows with GenAI.<br><br><details><br><summary>What I’m hacking on 👀</summary><br><br>- 📚 Curating AMP sequences and metadata for a public database  <br>- 🧬 Integrating gene-expression profiles with drug-molecule descriptors for predictive modelling  <br>- ⚙️ Nightly scripts that auto-download new papers & organise reading lists  <br></details><br>
 
 
